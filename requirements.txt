@@ -1,0 +1,32 @@
+# ============================================
+# App Web - Dependensi Streamlit
+# Install: pip install -r requirements.txt
+# ============================================
+
+# Core Streamlit & data
+streamlit
+pandas
+numpy
+altair
+Pillow
+
+# Machine learning
+scikit-learn
+joblib
+
+# Visualisasi
+matplotlib
+seaborn
+wordcloud
+
+# NLP
+nltk
+textblob
+vaderSentiment
+transformers
+
+# PyTorch (dibutuhkan transformers, khusus folder 4-Sentiment-Analysis versi Indonesia)
+torch
+
+# Notebook folder 5-Regression
+jupyter
